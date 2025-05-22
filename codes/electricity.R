@@ -20,7 +20,7 @@ ggplot(electricity, aes(x = factor(id))) +
   # sutun grafigi ve degerlerin sutunların icine yazilmasi
   geom_bar(aes(y = toplam_kWh), stat = "identity", fill = "#94b9ff") +
   geom_text(aes(y = toplam_kWh, label = round(toplam_kWh, 1)), 
-            vjust = 1.5, size = 3, color = "white", family = "AvantGarde") +
+            vjust = 1.5, size = 3, color = "white", family = "AvantGarde", fontface = "bold") +
   # cizgi grafigi ve grafigin uzerindeki noktalar
   geom_line(aes(y = tutar * scale_ratio, group = 1), color = "#000664", size = 1.25) +
   geom_point(aes(y = tutar * scale_ratio), color = "#000664", size = 1.25) +
@@ -42,6 +42,7 @@ ggplot(electricity, aes(x = factor(id))) +
     axis.text.y.right = element_text(color = "#000664", size = 10),
     axis.title.x = element_blank(),
     text = element_text(family = "AvantGarde", size = 10),
+    plot.title = element_text(size = 30),
     plot.background = element_blank(),
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
