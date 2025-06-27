@@ -1,11 +1,11 @@
-date;visit;AST;ALT;GGT;ALP;total_cholesterol;"LDL_
-cholesterol";HDL_cholesterol
-29.07.2020;Ankara Onkoloji Egitim ve Arastirma;33;90;64;111;NA;NA;NA
-16.11.2020;Gazi Üniversitesi;56;183;107;134;NA;NA;NA
-24.11.2020;Hacettepe Üniversitesi;37;81;83;123;211;129;49
-30.11.2020;Baskent Üniversitesi;40;80;63;106;211;129;49
-10.10.2024;TUSAS Saglik Merkezi;22;69;81;NA;NA;NA;NA
-12.12.2024;TUSAS Saglik Merkezi;59;120;108;NA;NA;NA;NA
-14.12.2024;Medicana (Ankara);40;112;104;153;219;145;49
-3.01.2025;Ankara Üniversitesi - Cebeci;65;202;152;143;219;131;66
-27.02.2025;Ankara Üniversitesi - Cebeci;48;146;134;134;203;127;55
+date,visit,AST,ALT,GGT,ALP,total_cholesterol,"LDL_
+cholesterol",HDL_cholesterol
+29.07.2020,Ankara Onkoloji Egitim ve Arastirma,33,90,64,111,NA,NA,NA
+16.11.2020,Gazi Ãœniversitesi,56,183,107,134,NA,NA,NA
+24.11.2020,Hacettepe Ãœniversitesi,37,81,83,123,211,129,49
+30.11.2020,Baskent Ãœniversitesi,40,80,63,106,211,129,49
+10.10.2024,TUSAS Saglik Merkezi,22,69,81,NA,NA,NA,NA
+12.12.2024,TUSAS Saglik Merkezi,59,120,108,NA,NA,NA,NA
+14.12.2024,Medicana (Ankara),40,112,104,153,219,145,49
+3.01.2025,Ankara Ãœniversitesi - Cebeci,65,202,152,143,219,131,66
+27.02.2025,Ankara Ãœniversitesi - Cebeci,48,146,134,134,203,127,55
