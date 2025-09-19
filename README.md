@@ -9,3 +9,6 @@ My DataFrames
 
 # Liver Enzymes
 ![liver_enzymes](https://github.com/user-attachments/assets/9f5ba7e5-fac0-4a6a-9bf5-c94c490489b5)
+
+# AS Pain
+<img width="1920" height="1080" alt="as_pain" src="https://github.com/user-attachments/assets/22a8450c-4f2c-42f8-a7c9-32ec14ae9623" />
