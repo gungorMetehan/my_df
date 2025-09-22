@@ -1,5 +1,4 @@
-date,visit,AST,ALT,GGT,ALP,total_cholesterol,"LDL_
-cholesterol",HDL_cholesterol
+date,visit,AST,ALT,GGT,ALP,total_cholesterol,LDL_cholesterol,HDL_cholesterol
 29.07.2020,Ankara Onkoloji Egitim ve Arastirma,33,90,64,111,NA,NA,NA
 16.11.2020,Gazi Üniversitesi,56,183,107,134,NA,NA,NA
 24.11.2020,Hacettepe Üniversitesi,37,81,83,123,211,129,49
@@ -9,3 +8,5 @@ cholesterol",HDL_cholesterol
 14.12.2024,Medicana (Ankara),40,112,104,153,219,145,49
 03.01.2025,Ankara Üniversitesi - Cebeci,65,202,152,143,219,131,66
 27.02.2025,Ankara Üniversitesi - Cebeci,48,146,134,134,203,127,55
+20.09.2025,Ankara Lokman Hekim (Sincan),40.7,96.1,NA,NA,NA,NA,NA
+
