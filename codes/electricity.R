@@ -42,7 +42,7 @@ ggplot(electricity, aes(x = factor(id))) +
     axis.text.y.right = element_text(color = "#000664", size = 10),
     axis.title.x = element_blank(),
     text = element_text(family = "AvantGarde", size = 10),
-    plot.title = element_text(size = 30),
+    plot.title = element_text(size = 30, margin = margin(b = 15)),
     plot.background = element_blank(),
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
