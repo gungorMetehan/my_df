@@ -31,13 +31,14 @@ ggplot(liver_long, aes(x = factor(date), y = Value, group = 1, color = Enzyme)) 
             aes(xmin = -Inf, xmax = Inf, ymin = ymin, ymax = ymax),
             fill = "#00c287", alpha = 0.15) +
   labs(x = "", y = "", title = "Liver Enzymes Over Time with Ideal Ranges", color = "Enzyme") +
-  geom_text(aes(label = Value), vjust = -1, color = "black", size = 3, show.legend = FALSE, family = "AvantGarde") +
+  geom_text(aes(label = Value), vjust = -1, color = "black", size = 3.5, show.legend = FALSE, family = "AvantGarde") +
   facet_wrap(~ Enzyme, scales = "fixed") +
     theme_minimal() +
   theme(
     text = element_text(family = "AvantGarde"),
     axis.text.x = element_text(angle = 45, hjust = 1),
-    legend.position = "bottom"
+    legend.position = "bottom",
+    plot.title = element_text(size = 30, margin = margin(0, 0, 30, 0)),
+    strip.text = element_text(size = 25)
   ) +
   coord_cartesian(ylim = c(0, 250))
-
