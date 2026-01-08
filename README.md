@@ -11,4 +11,4 @@ My DataFrames
 <img width="1920" height="1080" alt="liver_enzymes" src="https://github.com/user-attachments/assets/44675613-12bf-4a0b-92af-3eb41a9d3f0c" />
 
 # AS Pain
-<img width="1920" height="1080" alt="as_pain" src="https://github.com/user-attachments/assets/22a8450c-4f2c-42f8-a7c9-32ec14ae9623" />
+<img width="2400" height="1350" alt="as_pain" src="https://github.com/user-attachments/assets/afa9e9a8-aded-4f35-9de4-8b610e752463" />
